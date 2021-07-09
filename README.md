@@ -4,7 +4,7 @@
 ```
 npm install -g @sitecore-jss/sitecore-jss-cli
 ```
-## create a project 
+## create a new project 
 
 ```
 jss create my-vue-jss-app vue
